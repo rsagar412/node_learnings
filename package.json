@@ -1,0 +1,22 @@
+{
+  "name": "sagar",
+  "version": "1.0.0",
+  "description": "It's an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsagar412/node_learnings.git"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsagar412/node_learnings/issues"
+  },
+  "homepage": "https://github.com/rsagar412/node_learnings#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

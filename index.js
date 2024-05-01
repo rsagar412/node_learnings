@@ -1,1 +1,2 @@
-console.log("Hello World")
+const sagar = require ("./second")
+console.log("Hello World", sagar)
